@@ -13,15 +13,6 @@ Understanding how galaxy catalog information can be combined with GW sky maps.
 
 These notebooks were developed as part of my self-training in multimessenger astrophysics and gravitational-wave data analysis.
 
-Repository Structure
-.
-├── notebooks/
-│   ├── 01_Reading_GW170817_Skymap.ipynb
-│   └── SKYFAST.ipynb
-│
-├── figures/
-├── README.md
-└── environment.yml
 Notebooks
 01_Reading_GW170817_Skymap.ipynb
 Download and read GW sky localization maps.
