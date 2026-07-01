@@ -31,13 +31,12 @@ SKYFAST.ipynb
 
 ---------------------------------- Tools and Libraries ------------------------------
 
-
-NumPy
-Matplotlib
-HEALPix
-Astropy
-LIGO/Virgo/KAGRA Open Data
-SKYFAST - FIGARO
+* NumPy
+* Matplotlib
+* HEALPix
+* Astropy
+* LIGO/Virgo/KAGRA Open Data
+* SKYFAST - FIGARO
 
 Author
 
