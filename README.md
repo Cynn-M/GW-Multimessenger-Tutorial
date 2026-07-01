@@ -30,7 +30,8 @@ SKYFAST.ipynb
 * Scientific Motivation
 
 ---------------------------------- Tools and Libraries ------------------------------
-Python
+
+
 NumPy
 Matplotlib
 HEALPix
